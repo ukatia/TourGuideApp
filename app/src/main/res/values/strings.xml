@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Thessaloniki Guide</string>
+    <string name="sights">Sights</string>
+    <string name="monuments">Monuments</string>
+    <string name="museums">Museums</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shopping">Shopping</string>
+    <string name="white_tower">White Tower</string>
+    <string name="white_tower_address">Nikis Avenue, 54640, Thessaloniki, Greece</string>
+    <string name="aristotelous_square">Aristotelous Square</string>
+    <string name="aristotelous_square_address">Nikis Avenue, 54624, Thessaloniki, Greece</string>
+    <string name="rotunda">Rotunda</string>
+    <string name="rotunda_address">Square Ag. Georgiou, 546 35, Thessaloniki, Greece</string>
+    <string name="great_alexander_statue">Statue of Alexander The Great</string>
+    <string name="great_alexander_statue_address">Leoforos Megalou Alexandrou, 545 00, Thessaloniki, Greece</string>
+    <string name="archaeological_museum">Archaeological museum</string>
+    <string name="archaeological_museum_address">Manoli Andronikou 6, 54013, Thessaloniki, Greece</string>
+    <string name="seven_seas">Seven seas</string>
+    <string name="seven_seas_address">10 Kalapothaki, 546 24, Thessaloniki, Greece</string>
+    <string name="xalaro">Xalaro</string>
+    <string name="xalaro_address">Sofouli 75, 55131, Thessaloniki, Greece</string>
+    <string name="mediterranean_cosmos">Mediterranean Cosmos</string>
+    <string name="mediterranean_cosmos_address">Thessalonikis Neon Moudanion, 570 01, Thessaloniki, Greece</string>
+</resources>
