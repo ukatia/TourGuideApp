@@ -1,1 +1,2 @@
-# TourGuidApp
+# TourGuideApp
+Android application
